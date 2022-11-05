@@ -3,14 +3,14 @@
 - The solar system is somewhere around 4.5 billion years old
 - There are potential thousands of unidentified and unknown object between us and the Sun. We cannot detect asteroids and the such that are towards the sun from us due to the glare and light created by the Sun.
 - Besides Earth and Jupiter, the solar system is quite average. Our sun is nearly the average size and mass for a star of its type, our star is the most common star, and we are not in an incredibly strange location in our galaxy
-- ![galaxy location image](https://earthsky.org/upl/2014/01/sun-milky-way-location-Caltech.jpg)
+![galaxy location image](https://earthsky.org/upl/2014/01/sun-milky-way-location-Caltech.jpg)
 - NASA constantly tracks a handful of objects capabale of wiping out all life on Earth in the solar system
 - There are three big clouds located in the solar system: the asteroid belt, the Kuiper belt, and the Oort cloud
 - The Kuiper belt is basically just another asteroid belt, but many many times larger and located near neptune
 - The Oort cloud is a cloud surrounding the entire solar system composed of small icy objects 
-- ![kuiper belt and oort cloud](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/12/kuiper_belt_and_oort_cloud_in_context/15106869-1-eng-GB/Kuiper_Belt_and_Oort_Cloud_in_context_pillars.jpg)
+![kuiper belt and oort cloud](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/12/kuiper_belt_and_oort_cloud_in_context/15106869-1-eng-GB/Kuiper_Belt_and_Oort_Cloud_in_context_pillars.jpg)
 - Beyond Pluto, there are five other dwarf planets present in the solar system: Ceres, Makemake, Haumea, and Eris. Ceres is located between Mars and Jupiter, Makemake is in the Kuiper belt, Haumea is beyond Neptune and is an oval shape, and Eris usually floats around Neptune
-- ![dwarf planets](https://ichef.bbci.co.uk/images/ic/832xn/p06mrgnc.jpg)
+![dwarf planets](https://ichef.bbci.co.uk/images/ic/832xn/p06mrgnc.jpg)
 ## Sun
 - The sun is very average. Average mass for its type and average size. 
 - The sun is somewhere around 4.5 billion years old and has around 5 billions years left to go
