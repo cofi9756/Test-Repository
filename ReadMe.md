@@ -26,7 +26,7 @@
   -This also creates Sun cycles, when there are many sun spots, that means the sun is at the peak of its solar cycle. The sun is also the most active at the peak of it's solar cycle. Meaning that this is the time when the Sun creates the most solar flares 
   - When there are few sun spots, that means it is at the begnning or end of a solar cycle
   - most solar cycles have very little effect on the Earth's surface, unless it is a very active solar cycle. The real damage is to satellites and other LEO and GEO objetcs that are unprotected by the Earths magnetosphere
-  - Then , every 11 years, the Sun flips its magnetic poles and restarts the solar cycle from the beginning
+  - Then, every 11 years, the Sun flips its magnetic poles and restarts the solar cycle from the beginning
 ## Mercury 
 ## Venus
 ## Earth 
