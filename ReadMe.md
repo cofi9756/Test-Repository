@@ -23,9 +23,10 @@
 - The core of the Sun is somwhere around 15 million degrees celsius, while its surface is only around 6000 celsius, and the corona (the outermost layter of the Sun) is around 2 million degrees celsius
 - The Sun, at the age it is at, is 91% hydrogen
 - The Sun has a magnetic field, but so much is hapenning on and beneath the surface of the Sun that it's magnetic field gets tangled and warped over time creating cool sun spots
-  - This also creates Sun cycles, when there are many sun spots, that means the sun is at the peak of its solar cycle. The sun is also the most active at the peak of it's solar cycle. Meaning that this is the time when the Sun creates the most solar flares 
+  - This also creates Sun cycles. When there are many sun spots, that means the sun is at the peak of its solar cycle. The sun is also the most active at the peak of it's solar cycle. Meaning that this is the time when the Sun creates the most solar flares
+  - Depending on the cycle, the peak could also be incredibly active with many solar flares and a lot of activity, or it could be relativley calm with few solar flares
   - When there are few sun spots, that means it is at the begnning or end of a solar cycle
-  - most solar cycles have very little effect on the Earth's surface, unless it is a very active solar cycle. The real damage is to satellites and other LEO and GEO objetcs that are unprotected by the Earths magnetosphere
+  - most solar cycles have very little effect on the Earth's surface, unless it is a very active solar cycle. The real damage is to satellites and other LEO and GEO objects that are unprotected by the Earths magnetosphere
   - Then, every 11 years, the Sun flips its magnetic poles and restarts the solar cycle from the beginning
 ## Mercury 
 ## Venus
