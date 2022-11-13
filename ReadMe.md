@@ -81,6 +81,7 @@
 - Earth has one moon, the Moon
 - Earth has the highest ratio of moon to planet mass, meaning the planet and the moon are close in mass 
   - Even the, the moon is 81 times less massive than Earth
+![Moon Image](https://cdn.mos.cms.futurecdn.net/snbrHBRigvvzjxNGuUtcck.jpg)
 - During the development of the solarsystem, Earth was two planets
   - In the early and chaotic days of the solarsystem, there were two planets, proto-Earth and Theia
   - Due to the chaotic mess that is a forming solarsystem, the two planets orbits happened to cross and Theia slammed into proto-Earth causing a massive amount of debris and rubble to be thrown into space about 4.5 billion years ago
