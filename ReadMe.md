@@ -70,6 +70,28 @@
 ![Venera 7](https://i0.wp.com/www.drewexmachina.com/wp-content/uploads/2020/07/BMoS_1990_037_DXM.jpg?ssl=1)
 ![Surface Image](https://astronomy.com/-/media/Images/News%20and%20Observing/News/2020/08/venera13surfacecomposite.jpg?mw=600)
 ## Earth 
+- Earth is the third planet from the sun
+- Its where you live
+- The Earth is the only known planet to contain complex multicellular life
+- Earth is the only confirmed planet to have plate tectonics where the crust floats on the more dense mantle
+  - There is some evidence that Jupiter's moon Europa does, though this is unconfirmed 
+- Its where every single human has lived and died since the beginning of human history
+  - Meaning there have been no reported deaths in space as of now
+- Earth has one moon, the Moon
+- Earth has the highest ratio of moon to planet mass, meaning the planet and the moon are close in mass 
+  - Even the, the moon is 81 times less massive than Earth
+- During the development of the solarsystem, Earth was two planets
+  - In the early and chaotic days of the solarsystem, there were two planets, proto-Earth and Theia
+  - Due to the chaotic mess that is a forming solarsystem, the two planets orbits happened to cross and Theia slammed into proto-Earth causing a massive amount of debris and rubble to be thrown into space about 4.5 billion years ago
+  - Scientists believe this rubble coalesced into the Moon over time
+- The Moon is slowly moving away from the Earth, about 1.5 centimeters a year, and has been doing so since its creation 
+  - Meaning that several million years ago, the Moon was several times closer to Earth than it is now
+- The Moon does several processes that are nearly vital to life on Earth
+  - The most important of which is casuing tides, and more generally, stirring the ocean
+  - Scientists believe this motion was integral to the development of cellular life in the ocean, as it forced particles in the water to constantly move and interact
+- Earth is somehwere around 4.5 billion years old
+  - For 3.7 billion years, life has existed 
+  - For only 579 million years has complex life existed on Earth
 ## Mars
 ## Jupiter
 ## Uranus
