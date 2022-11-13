@@ -129,6 +129,7 @@
 - ![Jupiter Size Comparison](https://solarsystem.nasa.gov/system/resources/detail_files/686_solarsys_scale.jpg)
 - Jupiter is the third brightest object in Earth's night sky 
   - It is so bright, despite being so far, because of its sheer size and amount of area that light reflects off of 
+![Jupiter Night Sky](https://cloudfront-us-east-1.images.arcpublishing.com/gray/TCZMD4DYGVBFHFLYXQ256OA3D4.png)
 - Jupiter has 80 moons 
   - The most prominent of which being Io, Europa, Ganymede, and Callisto
   - I could write another one of these little blurbs for every single one of these moons
