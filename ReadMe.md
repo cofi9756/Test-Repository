@@ -37,14 +37,15 @@
 - One of two planets to not have moons in the solarsystem
 - A year for Mercury is 88 Earth days
 - A day on Mercury is 58.5 Earth days
-- ![Mercury Image](https://www.universetoday.com/wp-content/uploads/2014/12/Mercury-Messenger-enhanced-color.jpg)
+![Mercury Image](https://www.universetoday.com/wp-content/uploads/2014/12/Mercury-Messenger-enhanced-color.jpg)
 - Mercury is slowly shrinking, due to its core cooling and causing it to contract
 - Mercury has the most craters of any planet in the solarsystem becasue it has no atmosphere
 - With the exclusion of Pluto from the planets, Mercury is now the smallest planet
 - Mercury's biggest crater, the Caloris Basin, could fit western europe inside
-- ![Caloris Basin](https://solarsystem.nasa.gov/system/resources/detail_files/2266_PIA19216_1280.jpg)
+![Caloris Basin](https://solarsystem.nasa.gov/system/resources/detail_files/2266_PIA19216_1280.jpg)
 - Merrcury has massive temperature differences between the dark and light side due to its closeness to the sun
 - Only two probes have ever studied Mercury, one was a flyby and the other stayed in orbit for about 4 years
+- Mercury is largely a unremarkable planet
 ## Venus
 - The second planet in our solarsystem to lack moons
 ## Earth 
