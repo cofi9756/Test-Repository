@@ -99,6 +99,24 @@
   - Humans have existed for 6 million years
   - In that time, there have been around 117 billion humans born, died, or currently alive
 ## Mars
+- Mars is the fourth planet from the sun
+- A Martian year is 687 Earth days long
+- A Martian day is just 1 Earth day long
+- Mars' average temperature is -81F
+- Mars has two moons, Phobos and Deimos
+  - Phobos is slowly going towards Mars (6 feet a century), either to be crushed into a ring by Mars' gravity or to impact its surface in 50 million years
+  - Deimos is slowly leaving Mars
+- Mars contains the largest known mountain in the solarsystem, Olympus Mons at 21.9 kilometers in height (compared to Everest at only 8.8 kilometers) 
+- It is theorized that mars suffered a similar fate to Venus, just in the reverse direction
+ - Mars was on track to becom a habitable planet, but was pushed away from the sun
+ - This caused its water to either freeze or vaporize
+ - Mars' core then cooled and this caused its magnetic field to disappear, causing its atmosphere to be stripped away by solar winds
+- There is evidence that liquid water once existed on the Martian surface with the presence of water erosion patterns 
+- There is evidence that Mars was once volcanically active (meaning it had a hot core like Earth), which is belived to be necessary to sustain life 
+ - Now, the core is dead and unable to do anything 
+- Mars has an atmopshere, but it is much thinner that Earths and is largely carbon dioxide 
+  - It's atmosphere is so thin that the wind on Mars is very weak compared to Earth
+- If humans were ever to colonize Mars, their biggest hurdle would be dealing with the unfiltered solar radiation constatly bombarding the Martian surface
 ## Jupiter
 ## Uranus
 ## Neptune
