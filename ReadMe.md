@@ -150,6 +150,7 @@
 - Saturn's year is 29 Earth years long 
 - Saturn's day is is 10 and a half Earth hours
 ![Saturn Put A Ring On It](https://solarsystem.nasa.gov/system/stellar_items/image_files/38_saturn_1600x900.jpg)
+- Saturn is the least dense planet
 - Saturn has 82 moons
   - The notable moons being Titan, Rhea, Dione, and Enceladus
 ![Saturn Cool Kid Moons](https://solarsystem.nasa.gov/system/resources/detail_files/14037_IMG003037.jpg)
@@ -165,6 +166,16 @@
 - Uranus is the seventh planet from the sun
 - A year on Uranus is 84 Earth years 
 - A day on Uranus is 17 Earth hours
-- 
+- Most of Uranus' mass is water, methane, and ammonia
+- Its atmosphere is mostly hydrogen and helium, jut like the other gas giants
+ - It is given its blue color by methane being the third most common element in its atmnosphere
+- Uranus is the second least dense planet
+- Uranus has 27 moons
+  - The notable moons being Titania, Oberon, Ariel, Umbriel, and Miranda
+![Fairy King Over Here](https://someinterestingfacts.net/wp-content/uploads/2013/01/Moons-of-Uranus.jpg)
+- Only a singualr probe has ever visted Uranus, Voyager 2, and it was only a pass by 
+- Uranus rotates in the opposite direction as well as rotating on its side 
+- Uranus also has a ring system, though it is too thin to see well, just like Jupiter's rings
+- Uranus holds the record for most punable name of any planet
 ## Neptune
 ## Pluto
