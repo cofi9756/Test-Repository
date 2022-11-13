@@ -1,6 +1,7 @@
 # https://cofi9756.github.io/Test-Repository/
 ## [Overall Fun Facts](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#overall-fun-facts)
 ## [Sun](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#sun)
+## [Mercury](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mercury)
 # Fun Facts About Our Solarsystem
 ## Overall Fun Facts
 - The solar system is somewhere around 4.5 billion years old
