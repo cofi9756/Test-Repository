@@ -38,6 +38,11 @@
 - A year for Mercury is 88 Earth days
 - A day on Mercury is 58.5 Earth days
 - Mercury is slowly shrinking, due to its core cooling and causing it to contract
+- Mercury has the most craters of any planet in the solarsystem becasue it has no atmosphere
+- With the exclusion of Pluto from the planets, Mercury is now the smallest planet
+- Mercury's biggest crater, the Caloris Basin, could fit western europe inside
+- Merrcury has massive temperature differences between the dark and light side due to its closeness to the sun
+- Only two probes have ever studied Mercury, one was a flyby and the other stayed in orbit for about 4 years
 ## Venus
 - The second planet in our solarsystem to lack moons
 ## Earth 
