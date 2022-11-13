@@ -176,6 +176,7 @@
 ![Fairy King Over Here](https://someinterestingfacts.net/wp-content/uploads/2013/01/Moons-of-Uranus.jpg)
 - Only a singualr probe has ever visted Uranus, Voyager 2, and it was only a pass by 
 - Uranus rotates in the opposite direction as well as rotating on its side 
+![He Be Kinda Wonky Tho](https://media.tenor.com/auvG_nQ5fuAAAAAC/equator-uranus101.gif)
 - Uranus also has a ring system, though it is too thin to see well, just like Jupiter's rings
 - Uranus holds the record for most punable name of any planet
 ## Neptune
