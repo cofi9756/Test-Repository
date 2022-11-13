@@ -119,6 +119,7 @@
  - Now, the core is dead and unable to do anything 
 - Mars has an atmopshere, but it is much thinner that Earths and is largely carbon dioxide 
   - It's atmosphere is so thin that the wind on Mars is very weak compared to Earth
+![Mars Atmosphere](https://www.universetoday.com/wp-content/uploads/2008/06/Mars_atmosphere-1.jpg)
 - If humans were ever to colonize Mars, their biggest hurdle would be dealing with the unfiltered solar radiation constatly bombarding the Martian surface
 ## Jupiter
 ## Uranus
