@@ -204,6 +204,7 @@
 - Pluto's year is 248 Earth years
 - Pluto's day is nearly 6 and a half Earth days
 - Pluto is moslty water
+![Pluto](https://cdn.mos.cms.futurecdn.net/DoZSMXF87kCuzbymsuEFHo.jpg)
 - Pluto has a elliptical orbit becasue Neptune pulls on Pluto
 - Pluto has 5 moons
  - The biggest and most well known of which is Charon
