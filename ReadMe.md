@@ -3,6 +3,7 @@
 ## [Sun](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#sun)
 ## [Mercury](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mercury)
 ## [Venus](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#venus)
+## [Earth](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#earth)
 # Fun Facts About Our Solarsystem
 ## Overall Fun Facts
 - The solar system is somewhere around 4.5 billion years old
