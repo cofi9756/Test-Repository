@@ -216,6 +216,7 @@
 - Pluto has a very thin atmosphere of carbon monoxide, nitrogen, and methane, giving Pluto a blue tint
  - This atmosphere is only present when its elliptical orbit takes it closer to the sun
  - Becasue when pluto gets closer to the sun, some of the frozen materials on its surface melt and from a thin atmosphere
+![Pluto Atmosphere](https://earthsky.org/upl/2016/06/Pluto-twilight-zone-New-Horozons-July-2015-sq-e1465162857687.jpg)
 - The only probe to pass by Pluto was New Horizons in 2015
 - Pluto's surface temperature is around -378F
 - It takes light 5 and a half hours to go from the sun to Pluto
