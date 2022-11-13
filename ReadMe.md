@@ -169,6 +169,7 @@
 - Most of Uranus' mass is water, methane, and ammonia
 - Its atmosphere is mostly hydrogen and helium, jut like the other gas giants
  - It is given its blue color by methane being the third most common element in its atmnosphere
+![Uranus](https://cdn.mos.cms.futurecdn.net/NVAnBwuGufg8cf2RXkZigd-320-80.jpg)
 - Uranus is the second least dense planet
 - Uranus has 27 moons
   - The notable moons being Titania, Oberon, Ariel, Umbriel, and Miranda
