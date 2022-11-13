@@ -96,6 +96,8 @@
   - For 3.7 billion years, life has existed 
   - For only 579 million years has complex life existed on Earth
   - In that 3.7 million years, there have been at least 5 mass extinctions, where nearly all life was wiped out and biodiversity dropped drastically
+  - Humans have existed for 6 million years
+  - In that time, there have been around 117 billion humans born, died, or currently alive
 ## Mars
 ## Jupiter
 ## Uranus
