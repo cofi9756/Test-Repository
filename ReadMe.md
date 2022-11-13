@@ -35,7 +35,9 @@
   - Then, every 11 years, the Sun flips its magnetic poles and restarts the solar cycle from the beginning
 ## Mercury 
 - One of two planets to not have moons in the solarsystem
-- 
+- A year for Mercury is 88 Earth days
+- A day on Mercury is 58.5 Earth days
+- Mercury is slowly shrinking, due to its core cooling and causing it to contract
 ## Venus
 - The second planet in our solarsystem to lack moons
 ## Earth 
