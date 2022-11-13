@@ -122,6 +122,25 @@
 ![Mars Atmosphere](https://www.universetoday.com/wp-content/uploads/2008/06/Mars_atmosphere-1.jpg)
 - If humans were ever to colonize Mars, their biggest hurdle would be dealing with the unfiltered solar radiation constatly bombarding the Martian surface
 ## Jupiter
+- Is the fifth planet from the sun and is the first planet beyond the asteroid belt
+- A year on Jupiter is 12 Earth days
+- A day on Jupiter is nearly 10 Earth hours
+- Jupiter is the largest planet by both mass and diameter in the solarsystem
+- Jupiter is the third brightest object in Earth's night sky 
+  - It is so bright, despite being so far, because of its sheer size and amount of area that light reflects off of 
+- Jupiter has 80 moons 
+  - The most prominent of which being Io, Europa, Ganymede, and Callisto
+  - I could write another one of these little blurbs for every single one of these moons
+- Jupiter's Great Red Spot is 340 Earth years old
+  - The Red Spot's average wind speed is 268 mph (a cat 5 hurricane has 157 mph wind speeds)
+- Jupiter's gravity is so great, that it inadvertently protects Earth from extra solar objects as well as object from the asteroid belt 
+- Jupiter has atmospheric phenomena (like the Red Spot) all the time
+  - Its atmopshere is largely hydrogen and helium 
+- Jupiter also has a ring, just like Saturn, but its ring is signifigantly less dense and noticable 
+- We have no idea what is under the clouds of Jupiter, we think there is a small, solid, and very dense core at the center
+- Jupiter has a massive magnetic field, many times larger than Earths 
+- Jupiter has had 7 probes visit it, with 5 being flybys and 2 being in orbit 
+  - Juno is the most recent, from 2016
 ## Uranus
 ## Neptune
 ## Pluto
