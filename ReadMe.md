@@ -210,7 +210,7 @@
 - Pluto has 5 moons
  - The biggest and most well known of which is Charon
  - Pluto and Charon's mass is so similar that their center of orbit is in between them (Pluto mass: 1.30900 × 10^22 kg) (Charon mass: 1.586 × 10^21 kg)
- - The center of orbit is the point in space the two objects orbit around, with objects like Earth and the Moon, the center of orbit is inside of Earth
+ - The center of orbit is the point in space two or more objects orbit around, with objects like Earth and the Moon with vastly different masses, the center of orbit is inside of Earth, but not the center of Earth
 ![Pluto Charon Orbit](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/48674671e4ded5d6b69cc8d84e20a4bd/large.gif)
 - Pluto orbits in the Kuiper belt
 - Pluto has a very thin atmosphere of carbon monoxide, nitrogen, and methane, giving Pluto a blue tint
