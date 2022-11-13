@@ -194,7 +194,7 @@
  - The most interesting being Triton
  - Triton has a strange orbit in comparison to Neptune's other moons, meaning Triton was likely captured by Neptune after Neptunes formation 
  - Triton is slwoly falling inwards towards Neptune
-![Neptune Moons](https://planetary.s3.amazonaws.com/web/assets/pictures/20180419_moons-of-neptune.png)
+![Neptune Moons](https://www.psi.edu/sites/default/files/images/staff/fp_triton.jpg)
 - Neptune also has a very faint ring system 
 ![Put A Ring On It Baby](https://solarsystem.nasa.gov/system/resources/detail_files/249_PIA02207.jpg)
 - The only probe to ever visit Neptune was also Voyager 2
