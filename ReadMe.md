@@ -189,6 +189,7 @@
  - thats why both of them are blue, because their makeups are so similar 
 - Neptune is the smallest gas giant
 - Winds on Neptune can reach over 700 mph, the fastest in the solarsystem
+![Neptune](http://www.nasa.gov/sites/default/files/thumbnails/image/pia01492-main.jpg)
 - Neptune has 14 moons 
  - The most interesting being Triton
  - Triton has a strange orbit incompariosn to Neptune's other moons, meaning Triton was likely captured by Neptune after Neptunes formation 
