@@ -123,9 +123,10 @@
 - If humans were ever to colonize Mars, their biggest hurdle would be dealing with the unfiltered solar radiation constatly bombarding the Martian surface
 ## Jupiter
 - Is the fifth planet from the sun and is the first planet beyond the asteroid belt
-- A year on Jupiter is 12 Earth days
+- A year on Jupiter is 12 Earth years
 - A day on Jupiter is nearly 10 Earth hours
 - Jupiter is the largest planet by both mass and diameter in the solarsystem
+- ![Jupiter Size Comparison](https://solarsystem.nasa.gov/system/resources/detail_files/686_solarsys_scale.jpg)
 - Jupiter is the third brightest object in Earth's night sky 
   - It is so bright, despite being so far, because of its sheer size and amount of area that light reflects off of 
 - Jupiter has 80 moons 
