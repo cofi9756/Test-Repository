@@ -192,7 +192,7 @@
 ![Neptune](http://www.nasa.gov/sites/default/files/thumbnails/image/pia01492-main.jpg)
 - Neptune has 14 moons 
  - The most interesting being Triton
- - Triton has a strange orbit incompariosn to Neptune's other moons, meaning Triton was likely captured by Neptune after Neptunes formation 
+ - Triton has a strange orbit in comparison to Neptune's other moons, meaning Triton was likely captured by Neptune after Neptunes formation 
  - Triton is slwoly falling inwards towards Neptune
 ![Neptune Moons](https://planetary.s3.amazonaws.com/web/assets/pictures/20180419_moons-of-neptune.png)
 - Neptune also has a very faint ring system 
