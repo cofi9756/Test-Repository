@@ -156,6 +156,7 @@
 - Saturn is the second largest planet in the solarsystem 
 - Saturn is known for its large and promienent ring system, with seven rings total
  - They are not solid, more like a very thin asteroid belt 
+![Yo Nice Ring Hun](https://spaceplace.nasa.gov/saturn-rings/en/saturn-rings1.en.jpg)
 - Saturns atmosphere is mostly hydrogen and helium, just like Jupiters
 - Only three probes have ever passed by Saturn or orbited Saturn
  - Cassini is the only probe to orbit, and it was disintegrated into Saturns atmosphere in 2017 at the end of its life
