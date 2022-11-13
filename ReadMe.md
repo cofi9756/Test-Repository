@@ -34,7 +34,10 @@
   - most solar cycles have very little effect on the Earth's surface, unless it is a very active solar cycle. The real damage is to satellites and other LEO and GEO objects that are unprotected by the Earths magnetosphere
   - Then, every 11 years, the Sun flips its magnetic poles and restarts the solar cycle from the beginning
 ## Mercury 
+- One of two planets to not have moons in the solarsystem
+- 
 ## Venus
+- The second planet in our solarsystem to lack moons
 ## Earth 
 ## Mars
 ## Jupiter
