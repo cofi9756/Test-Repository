@@ -216,3 +216,4 @@
 - The only probe to pass by Pluto was New Horizons in 2015
 - Pluto's surface temperature is around -378F
 - It takes light 5 and a half hours to go from the sun to Pluto
+- Pluto is still a planet in our hearts
