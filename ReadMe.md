@@ -103,6 +103,7 @@
 - A Martian year is 687 Earth days long
 - A Martian day is just 1 Earth day long
 - Mars' average temperature is -81F
+![Mars Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tharsis_and_Valles_Marineris_-_Mars_Orbiter_Mission_%2830055660701%29.png/1200px-Tharsis_and_Valles_Marineris_-_Mars_Orbiter_Mission_%2830055660701%29.png)
 - Mars has two moons, Phobos and Deimos
   - Phobos is slowly going towards Mars (6 feet a century), either to be crushed into a ring by Mars' gravity or to impact its surface in 50 million years
   - Deimos is slowly leaving Mars
