@@ -208,14 +208,14 @@
 - Pluto has a elliptical orbit becasue Neptune pulls on Pluto
 ![Pluto Orbit](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Animation_of_Pluto_orbit.gif/225px-Animation_of_Pluto_orbit.gif)
 - Pluto has 5 moons
- - The biggest and most well known of which is Charon
- - Pluto and Charon's mass is so similar that their center of orbit is in between them (Pluto mass: 1.30900 × 10^22 kg) (Charon mass: 1.586 × 10^21 kg)
- - The center of orbit is the point in space two or more objects orbit around, with objects like Earth and the Moon with vastly different masses, the center of orbit is inside of Earth, but not the center of Earth
+  - The biggest and most well known of which is Charon
+  - Pluto and Charon's mass is so similar that their center of orbit is in between them (Pluto mass: 1.30900 × 10^22 kg) (Charon mass: 1.586 × 10^21 kg)
+  - The center of orbit is the point in space two or more objects orbit around, with objects like Earth and the Moon with vastly different masses, the center of orbit is inside of Earth, but not the center of Earth
 ![Pluto Charon Orbit](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/48674671e4ded5d6b69cc8d84e20a4bd/large.gif)
 - Pluto orbits in the Kuiper belt
 - Pluto has a very thin atmosphere of carbon monoxide, nitrogen, and methane, giving Pluto a blue tint
- - This atmosphere is only present when its elliptical orbit takes it closer to the sun
- - Becasue when pluto gets closer to the sun, some of the frozen materials on its surface melt and from a thin atmosphere
+  - This atmosphere is only present when its elliptical orbit takes it closer to the sun
+  - Becasue when pluto gets closer to the sun, some of the frozen materials on its surface melt and from a thin atmosphere
 ![Pluto Atmosphere](https://earthsky.org/upl/2016/06/Pluto-twilight-zone-New-Horozons-July-2015-sq-e1465162857687.jpg)
 - The only probe to pass by Pluto was New Horizons in 2015
 - Pluto's surface temperature is around -378F
