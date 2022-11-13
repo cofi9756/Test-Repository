@@ -77,6 +77,7 @@
   - There is some evidence that Jupiter's moon Europa does, though this is unconfirmed 
 - Its where every single human has lived and died since the beginning of human history
   - Meaning there have been no reported deaths in space as of now
+![Earth Image](https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg)
 - Earth has one moon, the Moon
 - Earth has the highest ratio of moon to planet mass, meaning the planet and the moon are close in mass 
   - Even the, the moon is 81 times less massive than Earth
