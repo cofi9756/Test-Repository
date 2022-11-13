@@ -181,4 +181,20 @@
 - Uranus also has a ring system, though it is too thin to see well, just like Jupiter's rings
 - Uranus holds the record for most punable name of any planet
 ## Neptune
+- Eight planet from the sun
+- Neptune's year is 165 Earth years
+- Neptunes day is 16 Earth hours
+- Neptunes composition is nearly identical to the composition of Uranus
+ - Both atmospheric and solid wise
+ - thats why both of them are blue, because their makeups are so similar 
+- Neptune is the smallest gas giant
+- Winds on Neptune can reach over 700 mph, the fastest in the solarsystem
+- Neptune has 14 moons 
+ - The most interesting being Triton
+ - Triton has a strange orbit incompariosn to Neptune's other moons, meaning Triton was likely captured by Neptune after Neptunes formation 
+ - Triton is slwoly falling inwards towards Neptune
+![Neptune Moons](https://planetary.s3.amazonaws.com/web/assets/pictures/20180419_moons-of-neptune.png)
+- Neptune also has a very faint ring system 
+- The only probe to ever visit Neptune was also Voyager 2
+- Neptune pulls on Pluto, causing Pluto to have an elliptical orbit 
 ## Pluto
