@@ -65,6 +65,8 @@
 - There has only ever been one probe to land on Venus, Venera 7
   - Venera 7 was a Russian probe which landed on the Venusian surface in 1970
   - It lasted for a grand total of 53 minutes, in that time it was able to send back several pictures from the surface before becoming inoperable 
+![Venera 7](https://i0.wp.com/www.drewexmachina.com/wp-content/uploads/2020/07/BMoS_1990_037_DXM.jpg?ssl=1)
+![Surface Image](https://astronomy.com/-/media/Images/News%20and%20Observing/News/2020/08/venera13surfacecomposite.jpg?mw=600)
 ## Earth 
 ## Mars
 ## Jupiter
