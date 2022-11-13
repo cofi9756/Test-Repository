@@ -52,9 +52,11 @@
 - The second planet in our solarsystem to lack moons
 - A Venusian year is 225 Earth days long
 - A Venusian day is nearly 177 Earth days long
+![Venus Image](https://images.theconversation.com/files/405981/original/file-20210611-4750-1cpfjcv.png?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop)
 - Venus has an atmosphere, but its atmopshere is largely carbon dioxide and is several times more massive that Earth's atmopshere
 - Venus' atmosphere has a greenhouse effect just like Earth's atmopshere
 - Venus has a highly reflective atmosphere, making it the second brightest object in Earth's night sky
+![Venus W Atmosphere](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Venus_-_December_23_2016.png/220px-Venus_-_December_23_2016.png)
 - Venus spins clokcwise, unlike the other planets
 - Venus likely had liquid water before it became the way it was today
 - Venus' surface temperature is 900F, enough to melt lead, tin, and other similar metals 
