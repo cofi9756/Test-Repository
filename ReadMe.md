@@ -86,6 +86,7 @@
   - In the early and chaotic days of the solarsystem, there were two planets, proto-Earth and Theia
   - Due to the chaotic mess that is a forming solarsystem, the two planets orbits happened to cross and Theia slammed into proto-Earth causing a massive amount of debris and rubble to be thrown into space about 4.5 billion years ago
   - Scientists believe this rubble coalesced into the Moon over time
+![Theia From The Top Rope](https://upload.wikimedia.org/wikipedia/commons/4/4a/Artist%27s_concept_of_collision_at_HD_172555.jpg)
 - The Moon is slowly moving away from the Earth, about 1.5 centimeters a year, and has been doing so since its creation 
   - Meaning that several million years ago, the Moon was several times closer to Earth than it is now
 - The Moon does several processes that are nearly vital to life on Earth
