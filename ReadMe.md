@@ -48,7 +48,23 @@
 - Only two probes have ever studied Mercury, one was a flyby and the other stayed in orbit for about 4 years
 - Mercury is largely a unremarkable planet
 ## Venus
+- second planet from the sun
 - The second planet in our solarsystem to lack moons
+- A Venusian year is 225 Earth days long
+- A Venusian day is nearly 177 Earth days long
+- Venus has an atmosphere, but its atmopshere is largely carbon dioxide and is several times more massive that Earth's atmopshere
+- Venus' atmosphere has a greenhouse effect just like Earth's atmopshere
+- Venus has a highly reflective atmosphere, making it the second brightest object in Earth's night sky
+- Venus spins clokcwise, unlike the other planets
+- Venus likely had liquid water before it became the way it was today
+- Venus' surface temperature is 900F, enough to melt lead, tin, and other similar metals 
+- Scientists believe that Venus, in the early solarysystem, was on its way to becoming a habitable planet
+  - But then it was forcefully thrust towards the sun by the constatly changing early solarsystem, where its temperature began to rise
+  - This rise in temperature caused Venus' grennhouse effect to run wild and raise the temperature drastically, rendering the planet uninhabitable
+  - The higher average temperature caused all the water to evaporate into the atmopshere where it is slowly being stripped away by solar winds
+- There has only ever been one probe to land on Venus, Venera 7
+  - Venera 7 was a Russian probe which landed on the Venusian surface in 1970
+  - It lasted for a grand total of 53 minutes, in that time it was able to send back several pictures from the surface before becoming inoperable 
 ## Earth 
 ## Mars
 ## Jupiter
