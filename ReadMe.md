@@ -16,15 +16,19 @@
 - The sun is very average. Average mass for its type and average size. 
 - The sun is somewhere around 4.5 billion years old and has around 5 billions years left to go
 - The sun will cook the Earth in around 600 to 700 million years. As the Sun runs out of fuel, it will slowly get hotter and hotter, baking the Earth long before the Earth gets consumed by the expansion of our Sun into a red giant
+![Sun Image](https://www.nhm.ac.uk/content/dam/nhmwww/discover/the-sun-factfile/sunspot-two-column.jpg.thumb.768.768.jpg)
 - The Sun can take out all advanced human technology at almost any time if it gets lucky with the location and intensity of a solar flare 
+![Solar Flare](https://www.nhm.ac.uk/content/dam/nhmwww/discover/the-sun-factfile/solar-flares-two-column.jpg.thumb.768.768.jpg)
 - The sun travels at 450,000 mph around the galatic center
 - It takes the sun around 225 to 250 million years to fully rotate the center of the galaxy
 - The sun takes up about 99.86% of all mass in the solar system
 - The light and energy produced in the core of the Sun takes up to a million years to reach the surface of the sun
+![Sun Size](https://didyouknow.org/wp-content/uploads/planetsizes.jpg)
 - The core of the Sun is somwhere around 15 million degrees celsius, while its surface is only around 6000 celsius, and the corona (the outermost layter of the Sun) is around 2 million degrees celsius
 - The Sun, at the age it is at, is 91% hydrogen
 - The Sun has a magnetic field, but so much is hapenning on and beneath the surface of the Sun that it's magnetic field gets tangled and warped over time creating cool sun spots
   - This also creates Sun cycles. When there are many sun spots, that means the sun is at the peak of its solar cycle. The sun is also the most active at the peak of it's solar cycle. Meaning that this is the time when the Sun creates the most solar flares
+![Solar Cycle](https://scijinks.gov/review/solar-cycle/solar-cycle_2010-2020.jpg)
   - Depending on the cycle, the peak could also be incredibly active with many solar flares and a lot of activity, or it could be relativley calm with few solar flares
   - When there are few sun spots, that means it is at the begnning or end of a solar cycle
   - most solar cycles have very little effect on the Earth's surface, unless it is a very active solar cycle. The real damage is to satellites and other LEO and GEO objects that are unprotected by the Earths magnetosphere
