@@ -193,10 +193,26 @@
 - Neptune has 14 moons 
  - The most interesting being Triton
  - Triton has a strange orbit in comparison to Neptune's other moons, meaning Triton was likely captured by Neptune after Neptunes formation 
- - Triton is slwoly falling inwards towards Neptune
+ - Triton is slowly falling inwards towards Neptune
 ![Neptune Moons](https://www.psi.edu/sites/default/files/images/staff/fp_triton.jpg)
 - Neptune also has a very faint ring system 
 ![Put A Ring On It Baby](https://solarsystem.nasa.gov/system/resources/detail_files/249_PIA02207.jpg)
 - The only probe to ever visit Neptune was also Voyager 2
 - Neptune pulls on Pluto, causing Pluto to have an elliptical orbit 
 ## Pluto
+- Is no longer considered a planet, is now considered a dwarf planet
+- Pluto's year is 248 Earth years
+- Pluto's day is nearly 6 and a half Earth days
+- Pluto is moslty water
+- Pluto has a elliptical orbit becasue Neptune pulls on Pluto
+- Pluto has 5 moons
+ - The biggest and most well known of which is Charon
+ - Pluto and Charon's mass is so similar that their center of orbit is in between them (Pluto mass: 1.30900 × 10^22 kg) (Charon mass: 1.586 × 10^21 kg)
+ - The center of orbit is the point in space the two objects orbit around, with objects like Earth and the Moon, the center of orbit is inside of Earth
+- Pluto orbits in the Kuiper belt
+- Pluto has a very thin atmosphere of carbon monoxide, nitrogen, and methane, giving Pluto a blue tint
+ - This atmosphere is only present when its elliptical orbit takes it closer to the sun
+ - Becasue when pluto gets closer to the sun, some of the frozen materials on its surface melt and from a thin atmosphere
+- The only probe to pass by Pluto was New Horizons in 2015
+- Pluto's surface temperature is around -378F
+- It takes light 5 and a half hours to go from the sun to Pluto
