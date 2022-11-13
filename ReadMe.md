@@ -4,6 +4,12 @@
 ## [Mercury](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mercury)
 ## [Venus](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#venus)
 ## [Earth](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#earth)
+## [Mars](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mars)
+## [Jupiter](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#jupiter)
+## [Saturn](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#saturn)
+## [Uranus](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#uranus)
+## [Neptune](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#neptune)
+## [Pluto](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#pluto)
 # Fun Facts About Our Solarsystem
 ## Overall Fun Facts
 - The solar system is somewhere around 4.5 billion years old
