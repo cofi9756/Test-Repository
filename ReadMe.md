@@ -1,5 +1,5 @@
 # https://cofi9756.github.io/Test-Repository/
-## - Quick Links
+ - Quick Links
   - [Overall Fun Facts](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#overall-fun-facts-1)
   - [Sun](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#sun-1)
   - [Mercury](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mercury-1)
