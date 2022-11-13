@@ -1,15 +1,16 @@
 # https://cofi9756.github.io/Test-Repository/
-## [Overall Fun Facts](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#overall-fun-facts-1)
-## [Sun](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#sun-1)
-## [Mercury](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mercury-1)
-## [Venus](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#venus-1)
-## [Earth](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#earth-1)
-## [Mars](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mars-1)
-## [Jupiter](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#jupiter-1)
-## [Saturn](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#saturn-1)
-## [Uranus](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#uranus-1)
-## [Neptune](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#neptune-1)
-## [Pluto](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#pluto-1)
+## - Quick Links
+ # - [Overall Fun Facts](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#overall-fun-facts-1)
+ # - [Sun](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#sun-1)
+ # - [Mercury](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mercury-1)
+ # - [Venus](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#venus-1)
+ # - [Earth](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#earth-1)
+ # - [Mars](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#mars-1)
+ # - [Jupiter](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#jupiter-1)
+ # - [Saturn](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#saturn-1)
+ # - [Uranus](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#uranus-1)
+ # - [Neptune](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#neptune-1)
+ # - [Pluto](https://github.com/cofi9756/Test-Repository/blob/main/ReadMe.md#pluto-1)
 # Fun Facts About Our Solarsystem
 ## Overall Fun Facts
 - The solar system is somewhere around 4.5 billion years old
