@@ -133,6 +133,7 @@
 - Jupiter has 80 moons 
   - The most prominent of which being Io, Europa, Ganymede, and Callisto
   - I could write another one of these little blurbs for every single one of these moons
+![Jupiter Cool Kid Moons](https://cdn.britannica.com/68/73468-050-EE201124/Montage-Jupiter-Galilean-moons-spacecraft-Europa-Io.jpg)
 - Jupiter's Great Red Spot is 340 Earth years old
   - The Red Spot's average wind speed is 268 mph (a cat 5 hurricane has 157 mph wind speeds)
 - Jupiter's gravity is so great, that it inadvertently protects Earth from extra solar objects as well as object from the asteroid belt 
