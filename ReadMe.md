@@ -135,7 +135,8 @@
   - I could write another one of these little blurbs for every single one of these moons
 ![Jupiter Cool Kid Moons](https://cdn.britannica.com/68/73468-050-EE201124/Montage-Jupiter-Galilean-moons-spacecraft-Europa-Io.jpg)
 - Jupiter's Great Red Spot is 340 Earth years old
-  - The Red Spot's average wind speed is 268 mph (a cat 5 hurricane has 157 mph wind speeds)
+  - The Red Spot's average wind speed is 268 mph (a category 5 hurricane has 157 mph wind speeds)
+![Jupiter Red Spot](https://static.scientificamerican.com/sciam/cache/file/FF8F1392-219B-416E-A2D5E3955D8C4773_source.gif?w=590&h=800&07ED9966-9503-40A6-BE064A5E8864843B)
 - Jupiter's gravity is so great, that it inadvertently protects Earth from extra solar objects as well as object from the asteroid belt 
 - Jupiter has atmospheric phenomena (like the Red Spot) all the time
   - Its atmopshere is largely hydrogen and helium 
