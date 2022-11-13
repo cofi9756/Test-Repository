@@ -168,11 +168,11 @@
 - A day on Uranus is 17 Earth hours
 - Most of Uranus' mass is water, methane, and ammonia
 - Its atmosphere is mostly hydrogen and helium, jut like the other gas giants
- - It is given its blue color by methane being the third most common element in its atmnosphere
+  - It is given its blue color by methane being the third most common element in its atmnosphere
 ![Uranus](https://cdn.mos.cms.futurecdn.net/NVAnBwuGufg8cf2RXkZigd-320-80.jpg)
 - Uranus is the second least dense planet
 - Uranus has 27 moons
-  - The notable moons being Titania, Oberon, Ariel, Umbriel, and Miranda
+   - The notable moons being Titania, Oberon, Ariel, Umbriel, and Miranda
 ![Fairy King Over Here](https://someinterestingfacts.net/wp-content/uploads/2013/01/Moons-of-Uranus.jpg)
 - Only a singualr probe has ever visted Uranus, Voyager 2, and it was only a pass by 
 ![Voyager 2](https://d2pn8kiwq2w21t.cloudfront.net/original_images/missionswebvoyager.jpg)
@@ -185,15 +185,15 @@
 - Neptune's year is 165 Earth years
 - Neptunes day is 16 Earth hours
 - Neptunes composition is nearly identical to the composition of Uranus
- - Both atmospheric and solid wise
- - thats why both of them are blue, because their makeups are so similar 
+  - Both atmospheric and solid wise
+  - thats why both of them are blue, because their makeups are so similar 
 - Neptune is the smallest gas giant
 - Winds on Neptune can reach over 700 mph, the fastest in the solarsystem
 ![Neptune](http://www.nasa.gov/sites/default/files/thumbnails/image/pia01492-main.jpg)
 - Neptune has 14 moons 
- - The most interesting being Triton
- - Triton has a strange orbit in comparison to Neptune's other moons, meaning Triton was likely captured by Neptune after Neptunes formation 
- - Triton is slowly falling inwards towards Neptune
+  - The most interesting being Triton
+  - Triton has a strange orbit in comparison to Neptune's other moons, meaning Triton was likely captured by Neptune after Neptunes formation 
+  - Triton is slowly falling inwards towards Neptune
 ![Neptune Moons](https://www.psi.edu/sites/default/files/images/staff/fp_triton.jpg)
 - Neptune also has a very faint ring system 
 ![Put A Ring On It Baby](https://solarsystem.nasa.gov/system/resources/detail_files/249_PIA02207.jpg)
