@@ -206,6 +206,7 @@
 - Pluto is moslty water
 ![Pluto](https://cdn.mos.cms.futurecdn.net/DoZSMXF87kCuzbymsuEFHo.jpg)
 - Pluto has a elliptical orbit becasue Neptune pulls on Pluto
+![Pluto Orbit](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Animation_of_Pluto_orbit.gif/225px-Animation_of_Pluto_orbit.gif)
 - Pluto has 5 moons
  - The biggest and most well known of which is Charon
  - Pluto and Charon's mass is so similar that their center of orbit is in between them (Pluto mass: 1.30900 × 10^22 kg) (Charon mass: 1.586 × 10^21 kg)
