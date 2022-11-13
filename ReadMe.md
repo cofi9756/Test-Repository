@@ -95,6 +95,7 @@
 - Earth is somehwere around 4.5 billion years old
   - For 3.7 billion years, life has existed 
   - For only 579 million years has complex life existed on Earth
+  - In that 3.7 million years, there have been at least 5 mass extinctions, where nearly all life was wiped out and biodiversity dropped drastically
 ## Mars
 ## Jupiter
 ## Uranus
