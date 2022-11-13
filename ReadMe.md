@@ -145,6 +145,22 @@
 - Jupiter has a massive magnetic field, many times larger than Earths 
 - Jupiter has had 7 probes visit it, with 5 being flybys and 2 being in orbit 
   - Juno is the most recent, from 2016
+## Saturn
+- Saturn is the sixth planet from the sun
+- Saturn's year is 29 Earth years long 
+- Saturn's day is is 10 and a half Earth hours
+- Saturn has 82 moons
+  - The notable moons being Titan, Rhea, Dione, and Enceladus 
+- Saturn is the second largest planet in the solarsystem 
+- Saturn is known for its large and promienent ring system, with seven rings total
+ - They are not solid, more like a very thin asteroid belt 
+- Saturns atmosphere is mostly hydrogen and helium, just like Jupiters
+- Only three probes have ever passed by Saturn or orbited Saturn
+ - Cassini is the only probe to orbit, and it was disintegrated into Saturns atmosphere in 2017 at the end of its life
 ## Uranus
+- Uranus is the seventh planet from the sun
+- A year on Uranus is 84 Earth years 
+- A day on Uranus is 17 Earth hours
+- 
 ## Neptune
 ## Pluto
